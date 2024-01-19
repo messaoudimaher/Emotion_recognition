@@ -1,0 +1,8 @@
+opencv-python
+dlib
+keras
+imutils
+tensorflow
+keras
+numpy
+pygame
